@@ -1,9 +1,9 @@
 import Image from 'next/image';
 import React from 'react'
-import styles from "../styles/Topics.module.css";
-import bground from "../public/images/bg1.png"
-import launch from "../public/images/launch.png"
-import main4 from "../public/images/main4.png"
+import styles from "../styles/Topic.module.css";
+import bground from "../public/image/bg1.png"
+import launch from "../public/image/launch.png"
+import main4 from "../public/image/main4.png"
 
 const LaunchOption = () => {
   return (

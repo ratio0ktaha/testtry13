@@ -1,8 +1,8 @@
 import Image from "next/image";
 import React from "react";
 import styles from "../styles/homelander.module.css";
-import stars from "../public/images/stars.png";
-import group from "../public/images/Group 3689.png";
+import stars from "../public/image/stars.png";
+import group from "../public/image/hero_img.png";
 
 const homelander = () => {
   return (

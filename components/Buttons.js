@@ -1,4 +1,4 @@
-import styles from "../styles/Topics.module.css";
+import styles from "../styles/Topic.module.css";
 
 const Buttons = () => {
   return (

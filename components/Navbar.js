@@ -1,6 +1,6 @@
 import Link from "next/link";
 import styles from "../styles/Navbar.module.css";
-import topic_mojo from "../public/images/TOPICMOJO_ICON.png";
+import topic_mojo from "../public/image/TOPICMOJO_ICON.png";
 import Image from "next/image";
 
 const Navbar = () => {

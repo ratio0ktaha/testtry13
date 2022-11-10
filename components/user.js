@@ -1,8 +1,8 @@
 import Image from "next/image"
-import message from "../public/images/msg.png"
-import contact from "../public/images/contact.png"
-import area from "../public/images/area.png"
-import styles from "../styles/Users.module.css"
+import message from "../public/image/msg.png"
+import contact from "../public/image/contact.png"
+import area from "../public/image/area.png"
+import styles from "../styles/User.module.css"
 
 const Users = () => {
   return (

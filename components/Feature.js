@@ -1,8 +1,9 @@
 import Image from "next/image";
 import React from "react";
-import background from "../public/images/bg2.png"
+// import background from "../public/images/bg2.png";
+import background from "../public/image/bg2.png";
 import styles from "../styles/homelander.module.css";
-import bg_img from "../public/images/newImg.png" 
+import bg_img from "../public/image/newImg.png"; 
 
 const Feature = () => {
   return (
